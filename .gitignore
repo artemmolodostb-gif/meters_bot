@@ -1,0 +1,6 @@
+fourth-outpost-*.json
+state.json
+cron.log
+bot_offset.json
+__pycache__/
+*.pyc
